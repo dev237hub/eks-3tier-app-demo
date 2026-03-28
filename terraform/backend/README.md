@@ -13,7 +13,8 @@ This ensures:
 Safe concurrent execution State consistency Recovery through versioning
 
 ⚙️ Backend Initialization
-Screenshot 2026-03-28 074917
+
+<img width="1035" height="975" alt="Screenshot 2026-03-28 074917" src="https://github.com/user-attachments/assets/00fb43a4-dcfa-451e-b1eb-8a63c19607aa" />
 
 The backend was initialized using:
 
