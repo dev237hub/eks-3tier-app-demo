@@ -1,9 +1,0 @@
-Terraform setup
-
--> Head to Hashicorp official documentation to get follow best practices, use scripts to install terraform on our instance.
-
--> Make sure AWS CLI is installed as well. 
-
--> Generate sshkey on our instance and use key to authenticate our github account and clone our repo directly on our terminal.
-
--> 
